@@ -49,3 +49,10 @@ if uploaded_file is not None and api_key:
                 st.error(f"An error occurred: {e}")
 elif uploaded_file and not api_key:
     st.warning("⚠️ Please enter your OpenAI API Key above to process the audio.")
+<!-- SEO Meta Tags for USA Organic Traffic -->
+<title>Free AI Voice Summarizer | Summarize Audio & Video Online</title>
+<meta name="description" content="Free browser-based AI Voice Summarizer. Instantly convert long audio, voice notes, and video files into clear, concise summaries without sign-up.">
+<meta name="keywords" content="AI voice summarizer, free audio summarizer, voice note summarizer, AI audio to text summary, summarize meeting notes online, free video summarizer tool">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Free AI Voice Summarizer | Turn Audio into Quick Notes">
+<meta property="og:description" content="Convert podcasts, voice recordings, and meetings into quick summaries directly in your browser.">
